@@ -1,0 +1,5 @@
+*.o
+*.core
+/xmlquery
+.cache
+compile_commands.json

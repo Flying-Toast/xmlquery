@@ -1,0 +1,51 @@
+<schools>
+	<college id="CWRU">
+		<department name="CSDS">
+			<course number="234">
+				<name>Structured and Unstructured Data</name>
+				<credits>4</credits>
+				<description>
+					This course is an introduction to data models, storage, processing
+					and analysis in connection with advanced data management and
+					information extraction techniques for big data. The course has three
+					components, covering structured, semi-structured, and unstructured
+					data.
+				</description>
+			</course>
+			<course number="345">
+				<name>Programming Language Concepts</name>
+				<credits>3</credits>
+				<description>
+					This course examines the four main programming paradigms: imperative,
+					object-oriented, functional, and logical. It is assumed that students
+					will come to the course with significant exposure to object-oriented
+					programming and some exposure to imperative programming.
+				</description>
+			</course>
+		</department>
+		<department name="CHEM">
+			<course number="111">
+				<name>Principles of Chemistry for Engineers</name>
+				<credits>4</credits>
+				<description>
+					Get your iClicker ready! In this fun and fast-paced course from the legendary
+					Drew Meyer, you'll learn to understand the secrets of the universe.
+				</description>
+			</course>
+		</department>
+	</college>
+
+	<college id="UCLA">
+		<department name="CHEM">
+			<course number=123>
+				<name>The Only Chem Class at UCLA</name>
+				<credits>3.1415926535</credits>
+				<description>
+					It is a little known fact that UCLA only offers a single course for
+					the entirety of its chemistry student population. This is that
+					course. In this course, students will learn that water is wet.
+				</description>
+			</course>
+		</department>
+	</college>
+</schools>
